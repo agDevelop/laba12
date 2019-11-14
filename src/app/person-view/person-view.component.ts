@@ -22,8 +22,8 @@ export class PersonViewComponent implements OnInit {
   }
   onEditPerson(firstname: string = this.inPerson.firstname, lastname: string = this.inPerson.lastname) {
     if (firstname !== "" && lastname !== "") {
-      let ed_person = new Person(firstname, lastname, this.inPerson.id);
-      this.editperson.emit(ed_person);
+      let person = new Person(firstname, lastname, this.inPerson.id);
+      this.editperson.emit(person);
       this.editSwitch();
     }
   }
