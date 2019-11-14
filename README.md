@@ -1,6 +1,6 @@
 # Laba12
 
-##Лаба12. Скрипты. Работа с компонентами. Добавление и Редактирование.
+## Лаба12. Скрипты. Работа с компонентами. Добавление и Редактирование.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
 
