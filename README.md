@@ -1,6 +1,4 @@
-# Laba12
-
-## Лаба12. Скрипты. Работа с компонентами. Добавление и Редактирование.
+# Laba12. Скрипты. Работа с компонентами. Добавление и Редактирование. Гончаров Андрей 181-321
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
 
